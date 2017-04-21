@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Drive Folder
+Comment=Unofficial
+Exec=/usr/share/LinuxDrive/scripts/folder.sh
+Icon=/usr/share/LinuxDrive/icons/folder.svg
+Terminal=false
+Type=Application
+Categories=Internet

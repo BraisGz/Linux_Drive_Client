@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Linux Drive
+Comment=Unofficial
+Exec=/usr/share/LinuxDrive/scripts/LinuxDrive.sh
+Icon=/usr/share/LinuxDrive/icons/tray.svg
+Terminal=false
+Type=Application
+Categories=Internet
