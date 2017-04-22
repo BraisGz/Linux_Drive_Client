@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Linux Drive
 Comment=Unofficial
-Exec=/usr/share/LinuxDrive/scripts/LinuxDrive.sh
+Exec=/usr/share/LinuxDrive/scripts/yad_LinuxDrive.sh
 Icon=/usr/share/LinuxDrive/icons/tray.svg
 Terminal=false
 Type=Application
