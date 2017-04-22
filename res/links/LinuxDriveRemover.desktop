@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Remove Linux Drive
+Comment=Remove Drive
+Exec=/usr/share/LinuxDrive/scripts/uninstall.sh
+Icon=/usr/share/LinuxDrive/icons/remover.svg
+Terminal=true
+Type=Application
+Categories=Internet
