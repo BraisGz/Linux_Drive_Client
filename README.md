@@ -20,13 +20,21 @@ sudo gedit /usr/share/LinuxDrive/scripts/yad_LinuxDrive.sh
 you gonna get something like this: 
 
 #! /bin/bash
+
 /usr/share/LinuxDrive/scripts/yad_tray.sh &
+
 /usr/share/LinuxDrive/scripts/syncing.sh &
+
 cd /home/Sync
+
 while true; do
+
 sleep 5
+
 grive
+
 done
+
 
 You have to change the "sleep" command, changing the number next to it you will change the update frequency in seconds (60 seconds could be fine)
 
